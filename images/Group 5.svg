@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238 54">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 25px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-434 -995)">
+    <g id="Group_4" data-name="Group 4" transform="translate(0 34)">
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(434 961)">
+        <ellipse class="cls-3" cx="28" cy="27" rx="28" ry="27"/>
+        <ellipse class="cls-4" cx="28" cy="27" rx="26" ry="25"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(449.615 973.886)">
+        <path id="Path_8" data-name="Path 8" class="cls-1" d="M1870,536v26.386l24.231-10.555Z" transform="translate(-1864.077 -536)"/>
+        <path id="Path_9" data-name="Path 9" class="cls-1" d="M1870,536v20.25l19.923-8.1Z" transform="translate(-1870 -533.545)"/>
+      </g>
+    </g>
+    <text id="PLURALSIGHT" class="cls-2" transform="translate(506 1033)"><tspan x="0" y="0">PLURALSIGHT</tspan></text>
+  </g>
+</svg>
